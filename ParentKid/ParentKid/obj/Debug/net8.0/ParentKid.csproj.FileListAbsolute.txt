@@ -1,0 +1,14 @@
+C:\Users\abdul\source\repos\ParentKid\ParentKid\obj\Debug\net8.0\ParentKid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\source\repos\ParentKid\ParentKid\obj\Debug\net8.0\ParentKid.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\ParentKid\ParentKid\obj\Debug\net8.0\ParentKid.AssemblyInfo.cs
+C:\Users\abdul\source\repos\ParentKid\ParentKid\obj\Debug\net8.0\ParentKid.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\ParentKid\ParentKid\bin\Debug\net8.0\ParentKid.exe
+C:\Users\abdul\source\repos\ParentKid\ParentKid\bin\Debug\net8.0\ParentKid.deps.json
+C:\Users\abdul\source\repos\ParentKid\ParentKid\bin\Debug\net8.0\ParentKid.runtimeconfig.json
+C:\Users\abdul\source\repos\ParentKid\ParentKid\bin\Debug\net8.0\ParentKid.dll
+C:\Users\abdul\source\repos\ParentKid\ParentKid\bin\Debug\net8.0\ParentKid.pdb
+C:\Users\abdul\source\repos\ParentKid\ParentKid\obj\Debug\net8.0\ParentKid.dll
+C:\Users\abdul\source\repos\ParentKid\ParentKid\obj\Debug\net8.0\refint\ParentKid.dll
+C:\Users\abdul\source\repos\ParentKid\ParentKid\obj\Debug\net8.0\ParentKid.pdb
+C:\Users\abdul\source\repos\ParentKid\ParentKid\obj\Debug\net8.0\ParentKid.genruntimeconfig.cache
+C:\Users\abdul\source\repos\ParentKid\ParentKid\obj\Debug\net8.0\ref\ParentKid.dll

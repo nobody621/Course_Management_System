@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdul\\source\\repos\\Week 06 Question\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9EC167-4833-4ABA-B834-C9DF372A2E31}|Week 06 Question\\Week 06 Question.csproj|c:\\users\\abdul\\source\\repos\\week 06 question\\week 06 question\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9EC167-4833-4ABA-B834-C9DF372A2E31}|Week 06 Question\\Week 06 Question.csproj|solutionrelative:week 06 question\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9EC167-4833-4ABA-B834-C9DF372A2E31}|Week 06 Question\\Week 06 Question.csproj|c:\\users\\abdul\\source\\repos\\week 06 question\\week 06 question\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9EC167-4833-4ABA-B834-C9DF372A2E31}|Week 06 Question\\Week 06 Question.csproj|solutionrelative:week 06 question\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Week 06 Question\\Week 06 Question\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Week 06 Question\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Week 06 Question\\Week 06 Question\\BankAccount.cs",
+              "RelativeToolTip": "Week 06 Question\\BankAccount.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:14:20.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Week 06 Question\\Week 06 Question\\Program.cs",
+              "RelativeDocumentMoniker": "Week 06 Question\\Program.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Week 06 Question\\Week 06 Question\\Program.cs",
+              "RelativeToolTip": "Week 06 Question\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:12:07.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

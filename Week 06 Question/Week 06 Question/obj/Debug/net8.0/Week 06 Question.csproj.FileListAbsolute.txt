@@ -1,0 +1,14 @@
+C:\Users\abdul\source\repos\Week 06 Question\Week 06 Question\bin\Debug\net8.0\Week 06 Question.exe
+C:\Users\abdul\source\repos\Week 06 Question\Week 06 Question\bin\Debug\net8.0\Week 06 Question.deps.json
+C:\Users\abdul\source\repos\Week 06 Question\Week 06 Question\bin\Debug\net8.0\Week 06 Question.runtimeconfig.json
+C:\Users\abdul\source\repos\Week 06 Question\Week 06 Question\bin\Debug\net8.0\Week 06 Question.dll
+C:\Users\abdul\source\repos\Week 06 Question\Week 06 Question\bin\Debug\net8.0\Week 06 Question.pdb
+C:\Users\abdul\source\repos\Week 06 Question\Week 06 Question\obj\Debug\net8.0\Week 06 Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\source\repos\Week 06 Question\Week 06 Question\obj\Debug\net8.0\Week 06 Question.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\Week 06 Question\Week 06 Question\obj\Debug\net8.0\Week 06 Question.AssemblyInfo.cs
+C:\Users\abdul\source\repos\Week 06 Question\Week 06 Question\obj\Debug\net8.0\Week 06 Question.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\Week 06 Question\Week 06 Question\obj\Debug\net8.0\Week 06 Question.dll
+C:\Users\abdul\source\repos\Week 06 Question\Week 06 Question\obj\Debug\net8.0\refint\Week 06 Question.dll
+C:\Users\abdul\source\repos\Week 06 Question\Week 06 Question\obj\Debug\net8.0\Week 06 Question.pdb
+C:\Users\abdul\source\repos\Week 06 Question\Week 06 Question\obj\Debug\net8.0\Week 06 Question.genruntimeconfig.cache
+C:\Users\abdul\source\repos\Week 06 Question\Week 06 Question\obj\Debug\net8.0\ref\Week 06 Question.dll
